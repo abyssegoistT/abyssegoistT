@@ -1,9 +1,9 @@
 <!--Oh god oh god i'm so gay about pv and Mordecai Heller... hehe .-->
 <p align="center">
-<a href="https://hits.sh/github.com/FoolsUmbra/hits/"><img alt="Éxitos" src="https://hits.sh/github.com/FoolsUmbra/hits.svg?label=Lies%20%E2%99%A1&extraCount=6565&color=5E0E23&labelColor=FEFFEB"/></a>
+<a href="https://hits.sh/github.com/FoolsUmbra/hits/"><img alt="Éxitos" src="https://hits.sh/github.com/FoolsUmbra/hits.svg?label=Lies%20%E2%99%A1&extraCount=6565&color=2F1D39&labelColor=E7649F"/></a>
 <img src="https://files.catbox.moe/4iaakj.webp">
-<a href="https://hits.sh/github.com/FoolsUmbra/hits/"><img alt="Éxitos" src="https://hits.sh/github.com/FoolsUmbra/hits.svg?label=love%20%E2%99%A1&extraCount=8284&color=151515&labelColor=FEFFEB"/></a>
-<img src="https://files.catbox.moe/4xlu71.png" />
+<a href="https://hits.sh/github.com/FoolsUmbra/hits/"><img alt="Éxitos" src="https://hits.sh/github.com/FoolsUmbra/hits.svg?label=love%20%E2%99%A1&extraCount=8284&color=FFCCB3&labelColor=FEFFEB"/></a>
+<img src="https://files.catbox.moe/zct38o.png" />
    <br> ${\textsf{\color{#FDEDD8}heaven　　she /　her　✦　c + h　comf　✦　sign ata　/　straw}}$ 
  <br> 
   ——⟣　　<a href="https://foolsumbra.atabook.org/">atabook</a>　　　　<a href="https://dailyvanilla.straw.page">strawpage</a>　　　　<a href="https://milkcrowns.carrd.co">card</a>　　　　<a href="https://github.com/milkcrowns">alt account</a>　　⟢——
