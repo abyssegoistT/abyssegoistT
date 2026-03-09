@@ -10,7 +10,7 @@
      <br> ${\textsf{\color{#E7649F}whisper 2 interact at all times . ✦　don't be scared to interact ! ♥}}$ 
  <br>
    ——————————⟣⠀ <a href="https://rentry.co/Thelastcard">int ponytown</a> ⠀⟢——————————
-         <br> ${\textsf{\color{#E7649F}Shamil Pubha <3.}}$ 
+         <br> ${\textsf{\color{#FEFFEB}Shamil Pubha <3.}}$ 
  <br>
   </p>
 
