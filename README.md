@@ -7,7 +7,7 @@
    <br> ${\textsf{\color{#FFCCB3}heaven　ᵒᵘ　soft　𓎟　she　、　comf　}}$ 
  <br> 
   ——⟣　　<a href="https://foolsumbra.atabook.org/">atabook</a>　　　　<a href="https://dailyvanilla.straw.page">strawpage</a>　　　　<a href="https://milkcrowns.carrd.co">card</a>　　　　<a href="https://github.com/milkcrowns">alt account</a>　　⟢——
-     <br> ${\textsf{\color{#E7649F}whisper 2 interact at all times .　　don't be scared to interact ! ♥}}$ 
+     <br> ${\textsf{\color{#E7649F}whisper 2 interact at all times . ✦　don't be scared to interact ! ♥}}$ 
  <br>
    ——————————⟣⠀ <a href="https://rentry.co/Thelastcard">int ponytown</a> ⠀⟢——————————
          <br> ${\textsf{\color{#E7649F}Soul <3.}}$ 
