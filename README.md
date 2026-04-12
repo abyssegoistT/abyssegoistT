@@ -13,7 +13,9 @@
          <br> ${\textsf{\color{#FEFFEB}Shamil Pubha <3.}}$ 
  <br>
   </p>
-
+<br> ${\textsf{\color{#FEFFEB}[Copia] Hola mi bischochito <3.}}$ 
+ <br>
+   </p>
 <p align="center">
    
 <img src="https://files.catbox.moe/eg4d3j.gif">
