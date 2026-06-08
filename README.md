@@ -17,8 +17,6 @@
   </p>         
 <p align="center">
  <br>
-<p align="center">
-   
 <img src="https://files.catbox.moe/eg4d3j.gif">
  <p align="center">
   <a 
