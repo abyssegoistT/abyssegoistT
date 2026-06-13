@@ -8,7 +8,7 @@
 <a 
    <br> ${\textsf{\color{#FFCCB3}heaven　ᵒᵘ　abyss　𓎟　she　、　comf　}}$ 
  <br> 
-  ——⟣　　<a href="https://foolsumbra.atabook.org/">atabook</a>　　　　<a href="https://espressolove.straw.page/>strawpage</a>　　　　<a href="https://milkcrowns.carrd.co">card</a>　　　　<a href="https://github.com/milkcrowns">alt account</a>　　⟢——
+  ——⟣　　<a href="https://foolsumbra.atabook.org/">atabook</a>　　　　<a href="https://espressolove.straw.page/">strawpage</a>　　　　<a href="https://milkcrowns.carrd.co">card</a>　　　　<a href="https://github.com/milkcrowns">alt account</a>　　⟢——
      <br> ${\textsf{\color{#B279B5}whisper 2 interact at all times . ✦　don't be scared to interact ! ♥}}$ 
  <br>
    ——————————⟣⠀ <a href="https://rentry.co/Thelastcard">int ponytown</a> ⠀⟢——————————
