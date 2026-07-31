@@ -6,14 +6,9 @@
 <img width="892" height="596" alt="312 sin título_20260731165335" src="https://github.com/user-attachments/assets/d0dfcbf2-5706-4289-a2ea-9b8a3c2a36e2" />
    <p align="center">
 <a 
-   <br> ${\textsf{\color{#FFCCB3}heaven　ᵒᵘ　abyss　𓎟　she　、　comf　}}$ 
- <br> 
-  ——⟣　　<a href="https://foolsumbra.atabook.org/">atabook</a>　　　　<a href="https://espressolove.straw.page/">strawpage</a>　　　　<a href="https://milkcrowns.carrd.co">card</a>　　　　<a href="https://github.com/milkcrowns">alt account</a>　　⟢——
-     <br> ${\textsf{\color{#B279B5}whisper 2 interact at all times . ✦　don't be scared to interact ! ♥}}$ 
- <br>
-   ——————————⟣⠀ <a href="https://rentry.co/Thelastcard">int ponytown</a> ⠀⟢——————————
-         <br> ${\textsf{\color{#6A5A51}<3.}}$ 
- <br>
+ <br> $\small\textcolor{#2C2B3A}{\textsf{dni or dniuf,}}$
+$\small\textcolor{#D6B7F0}{\textsf{check the rentry}}$
+ $\small\textcolor{#F0B7D3}{\textsf{before interacting.}}$
   </p>         
 <p align="center">
  <br>
