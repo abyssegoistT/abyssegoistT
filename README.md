@@ -1,9 +1,9 @@
 <!--Oh god oh god i'm so gay about pv and Mordecai Heller... hehe .-->
 <p align="center">
-<a href="https://hits.sh/github.com/FoolsUmbra/hits/"><img alt="Éxitos" src="https://hits.sh/github.com/FoolsUmbra/hits.svg?label=Cute%20%E2%99%A1&extraCount=6565&color=6A5A51&labelColor=DFC98F"/></a>
+<a href="https://hits.sh/github.com/FoolsUmbra/hits/"><img alt="Éxitos" src="https://hits.sh/github.com/FoolsUmbra/hits.svg?label=Cute%20%E2%99%A1&extraCount=6565&color=FFEEE9&labelColor=F0B7D3"/></a>
 <img src="https://files.catbox.moe/4iaakj.webp">
-<a href="https://hits.sh/github.com/FoolsUmbra/hits/"><img alt="Éxitos" src="https://hits.sh/github.com/FoolsUmbra/hits.svg?label=love%20%E2%99%A1&extraCount=828&color=374740&labelColor=FCE2DF"/></a> 
-<img width="650" height="413" alt="312 sin título_20260608144933" src="https://github.com/user-attachments/assets/c8e731bf-dc11-449e-a731-7b30164423aa" />
+<a href="https://hits.sh/github.com/FoolsUmbra/hits/"><img alt="Éxitos" src="https://hits.sh/github.com/FoolsUmbra/hits.svg?label=love%20%E2%99%A1&extraCount=828&color=F0B7D3&labelColor=FCE2DF"/></a> 
+<img width="892" height="596" alt="312 sin título_20260731165335" src="https://github.com/user-attachments/assets/d0dfcbf2-5706-4289-a2ea-9b8a3c2a36e2" />
    <p align="center">
 <a 
    <br> ${\textsf{\color{#FFCCB3}heaven　ᵒᵘ　abyss　𓎟　she　、　comf　}}$ 
