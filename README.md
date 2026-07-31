@@ -10,6 +10,8 @@
 $\small\textcolor{#ffe7c4}{\textsf{check the rentry}}$
  $\small\textcolor{#e393a2}{\textsf{before interacting.}}$
   </p>         
+   <p align="center">
+   <a href="https://rentry.co/Thelastcard"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=e393a2&center=true&vCenter=true&width=200&height=30&lines=rentry.co" alt="Typing SVG" /></a>
 <p align="center">
  <br>
 <img src="https://files.catbox.moe/eg4d3j.gif">
@@ -21,9 +23,8 @@ $\small\textcolor{#ffe7c4}{\textsf{check the rentry}}$
 
 
 
+https://github.com/user-attachments/assets/71dd75bb-d0db-4fdc-97b6-c9be46380d64
 
-
-https://github.com/user-attachments/assets/1bfb0c1b-db14-421f-9eef-374ce63abbde
 
 
 
