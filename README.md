@@ -6,9 +6,11 @@
 <img width="892" height="596" alt="312 sin título_20260731174851" src="https://github.com/user-attachments/assets/af9281b1-b1be-485d-a4c1-0fe595fdb095" />
    <p align="center">
 <a 
- <br> $\small\textcolor{#e393a2}{\textsf{dni or dniuf,}}$
+ <br> $\small\textcolor{#341810}{\textsf{dni}}$
+   $\small\textcolor{#3D211F}{\textsf{or}}$
+   $\small\textcolor{#723B39}{\textsf{dniuf,}}$
 $\small\textcolor{#ffe7c4}{\textsf{check the rentry}}$
- $\small\textcolor{#e393a2}{\textsf{before interacting.}}$
+ $\small\textcolor{#723B39}{\textsf{before interacting.}}$
   </p>         
    <p align="center">
    <a href="https://rentry.co/Thelastcard"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=e393a2&center=true&vCenter=true&width=200&height=30&lines=rentry.co" alt="Typing SVG" /></a>
