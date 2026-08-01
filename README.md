@@ -7,10 +7,14 @@
    <p align="center">
 <a 
  <br> $\small\textcolor{#341810}{\textsf{dni}}$
-   $\small\textcolor{#3D211F}{\textsf{or}}$
-   $\small\textcolor{#723B39}{\textsf{dniuf,}}$
-$\small\textcolor{#ffe7c4}{\textsf{check the rentry}}$
- $\small\textcolor{#723B39}{\textsf{before interacting.}}$
+$\small\textcolor{#3D211F}{\textsf{or}}$
+$\small\textcolor{#723B39}{\textsf{dniuf,}}$
+$\small\textcolor{#ffe7c4}{\textsf{check}}$
+$\small\textcolor{#e393a2}{\textsf{the}}$
+$\small\textcolor{#e393a2}{\textsf{rentry}}$
+$\small\textcolor{#723B39}{\textsf{before}}$
+$\small\textcolor{#e393a2}{\textsf{interacting.}}$
+   
   </p>         
    <p align="center">
    <a href="https://rentry.co/Thelastcard"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=e393a2&center=true&vCenter=true&width=200&height=30&lines=rentry.co" alt="Typing SVG" /></a>
