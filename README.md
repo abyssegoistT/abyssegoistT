@@ -8,10 +8,10 @@
 <a 
  <br> $\small\textcolor{#1f0700}{\textsf{dni}}$
 $\small\textcolor{#530019}{\textsf{or}}$
-$\small\textcolor{#8e2d1c}{\textsf{dniuf,}}$
-$\small\textcolor{#A0554B}{\textsf{check}}$
-$\small\textcolor{#B96657}{\textsf{the}}$
-$\small\textcolor{#B67762}{\textsf{rentry}}$
+$\small\textcolor{#531F29}{\textsf{dniuf,}}$
+$\small\textcolor{#8e2d1c}{\textsf{check}}$
+$\small\textcolor{#A34F19}{\textsf{the}}$
+$\small\textcolor{#9D461A}{\textsf{rentry}}$
 $\small\textcolor{#CC9314}{\textsf{before}}$
 $\small\textcolor{#ffcf8f}{\textsf{interacting.}}$
    
