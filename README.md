@@ -6,9 +6,9 @@
 <img width="2249" height="1451" alt="327 sin título_20260916163816 (1)" src="https://github.com/user-attachments/assets/e3f96088-7f9e-4f6c-a84c-81b0e5b5120c" />
    <p align="center">
 <a 
- <br> $\small\textcolor{#341810}{\textsf{dni}}$
-$\small\textcolor{#3D211F}{\textsf{or}}$
-$\small\textcolor{#723B39}{\textsf{dniuf,}}$
+ <br> $\small\textcolor{#1f0700}{\textsf{dni}}$
+$\small\textcolor{#530019}{\textsf{or}}$
+$\small\textcolor{#8e2d1c}{\textsf{dniuf,}}$
 $\small\textcolor{#A0554B}{\textsf{check}}$
 $\small\textcolor{#B96657}{\textsf{the}}$
 $\small\textcolor{#B67762}{\textsf{rentry}}$
