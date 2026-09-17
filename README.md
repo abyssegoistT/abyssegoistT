@@ -12,7 +12,7 @@ $\small\textcolor{#8e2d1c}{\textsf{dniuf,}}$
 $\small\textcolor{#A0554B}{\textsf{check}}$
 $\small\textcolor{#B96657}{\textsf{the}}$
 $\small\textcolor{#B67762}{\textsf{rentry}}$
-$\small\textcolor{#E395A2}{\textsf{before}}$
+$\small\textcolor{#CC9314}{\textsf{before}}$
 $\small\textcolor{#ffcf8f}{\textsf{interacting.}}$
    
   </p>         
