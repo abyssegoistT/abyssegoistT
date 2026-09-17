@@ -13,7 +13,7 @@ $\small\textcolor{#A0554B}{\textsf{check}}$
 $\small\textcolor{#B96657}{\textsf{the}}$
 $\small\textcolor{#B67762}{\textsf{rentry}}$
 $\small\textcolor{#E395A2}{\textsf{before}}$
-$\small\textcolor{#F7D0BB}{\textsf{interacting.}}$
+$\small\textcolor{#ffcf8f}{\textsf{interacting.}}$
    
   </p>         
    <p align="center">
