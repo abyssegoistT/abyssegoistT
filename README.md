@@ -1,4 +1,4 @@
-<!--Oh god oh god i'm so gay about pv and Mordecai Heller... hehe .-->
+<!--Oh god oh god i'm so gay about pv and Mordecai Heller and hero x~ ... hehe .-->
 <p align="center">
 <a href="https://hits.sh/github.com/FoolsUmbra/hits/"><img alt="Éxitos" src="https://hits.sh/github.com/FoolsUmbra/hits.svg?label=Cute%20%E2%99%A1&extraCount=6565&color=F9EFE3&labelColor=E4E3EC"/></a>
 <img src="https://files.catbox.moe/xvkigf.webp">
@@ -20,7 +20,7 @@ $\small\textcolor{#F9EFE3}{\textsf{interacting.}}$
    
   </p>         
    <p align="center">
-   <a href="https://rentry.co/Thelastcard"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=FDC7C5&center=true&vCenter=true&width=200&height=30&lines=rentry.co" alt="Typing SVG" /></a>
+   <a href="https://rentry.co/Thelastcard"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=5E6273&center=true&vCenter=true&width=200&height=30&lines=rentry.co" alt="Typing SVG" /></a>
 <p align="center">
  <br>
 <img src="https://files.catbox.moe/eg4d3j.gif">
