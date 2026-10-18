@@ -7,14 +7,14 @@
 <a 
    <p align="center">
 <a 
- <br> $\small\textcolor{#1f0700}{\textsf{dni}}$
-$\small\textcolor{#530019}{\textsf{or}}$
+ <br> $\small\textcolor{#404955}{\textsf{dni}}$
+$\small\textcolor{#444E5C}{\textsf{or}}$
 $\small\textcolor{#531F29}{\textsf{dniuf,}}$
-$\small\textcolor{#8e2d1c}{\textsf{check}}$
-$\small\textcolor{#A34F19}{\textsf{the}}$
-$\small\textcolor{#9D461A}{\textsf{rentry}}$
-$\small\textcolor{#cc6814}{\textsf{before}}$
-$\small\textcolor{#CC9314}{\textsf{interacting.}}$
+$\small\textcolor{#5E6273}{\textsf{check}}$
+$\small\textcolor{#76727E}{\textsf{the}}$
+$\small\textcolor{#B5ADBC}{\textsf{rentry}}$
+$\small\textcolor{C0C6D8}{\textsf{before}}$
+$\small\textcolor{#C0C0D4}{\textsf{interacting.}}$
    
   </p>         
    <p align="center">
