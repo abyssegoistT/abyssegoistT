@@ -28,7 +28,18 @@ $\small\textcolor{#F9EFE3}{\textsf{interacting.}}$
   <a 
     <p align="center">    
 
+  
+<details>
+<summary> $\small\textcolor{#B5ADBC}{\textsf{♡}}$ </summary>
 
+$\small\textcolor{#5E6273}{\textsf{c+h freely all the time, i really}}$
+$\small\textcolor{#444E5C}{\textsf{don't mind being featured on Pinterest}}$
+
+
+<img src="https://files.catbox.moe/pbc0qn.png">
+<a 
+   
+</details>
 
 
 
