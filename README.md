@@ -39,14 +39,17 @@ $\small\textcolor{#444E5C}{\textsf{don't mind being featured on Pinterest}}$
 <details closed>
 
 
+   <div align="center">
+ <br>
+   <details>
+<summary> $\small\textcolor{#B5ADBC}{\textsf{♡}}$ </summary>
 
  <p align="center">  
-   
+    
+https://github.com/user-attachments/assets/a7ce1595-4902-41a9-a7e7-e944f1982c35
 
 
 
-
-https://github.com/user-attachments/assets/fd2f70f1-62fb-4953-8102-cbdbbbca22e5
 
 
 
