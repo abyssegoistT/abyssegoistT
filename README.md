@@ -22,14 +22,9 @@ $\small\textcolor{#F9EFE3}{\textsf{interacting.}}$
    <p align="center">
    <a href="https://rentry.co/Thelastcard"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=5E6273&center=true&vCenter=true&width=200&height=30&lines=rentry.co" alt="Typing SVG" /></a>
 <p align="center">
+   <p Div="center">
  <br>
-<img src="https://files.catbox.moe/eg4d3j.gif">
- <p align="center">
-  <a 
-    <p align="center">    
-
-  
-<details>
+   <details>
 <summary> $\small\textcolor{#B5ADBC}{\textsf{♡}}$ </summary>
 
 $\small\textcolor{#5E6273}{\textsf{c+h freely all the time, i really}}$
@@ -40,6 +35,13 @@ $\small\textcolor{#444E5C}{\textsf{don't mind being featured on Pinterest}}$
 <a 
    
 </details>
+
+<img src="https://files.catbox.moe/eg4d3j.gif">
+ <p align="center">
+  <a 
+    <p align="center">    
+
+
 
 
 
