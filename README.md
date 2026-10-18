@@ -8,14 +8,15 @@
    <p align="center">
 <a 
 
-   <br> $\small\textcolor{#404955}{\textsf{dni}}$
-$\small\textcolor{#444E5C}{\textsf{or}}$
-$\small\textcolor{#5E6273{\textsf{dniuf,}}$
-$\small\textcolor{#76727E}{\textsf{check}}$
-$\small\textcolor{#B5ADBC}{\textsf{the}}$
-$\small\textcolor{#C0C0D4}{\textsf{rentry}}$
-$\small\textcolor{C0C6D8}{\textsf{before}}$
-$\small\textcolor{#E4E9EC}{\textsf{interacting.}}$
+   
+ <br> $\small\textcolor{#814997}{\textsf{dni}}$
+$\small\textcolor{#964696}{\textsf{or}}$
+$\small\textcolor{#C44093}{\textsf{dniuf,}}$
+$\small\textcolor{#C54193}{\textsf{check}}$
+$\small\textcolor{#DB4983}{\textsf{the}}$
+$\small\textcolor{#F39FC0}{\textsf{rentry}}$
+$\small\textcolor{#F7AFB0}{\textsf{before}}$
+$\small\textcolor{#ffcf91}{\textsf{interacting.}}$
    
   </p>         
    <p align="center">
