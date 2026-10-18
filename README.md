@@ -9,12 +9,12 @@
 <a 
  <br> $\small\textcolor{#404955}{\textsf{dni}}$
 $\small\textcolor{#444E5C}{\textsf{or}}$
-$\small\textcolor{#531F29}{\textsf{dniuf,}}$
-$\small\textcolor{#5E6273}{\textsf{check}}$
-$\small\textcolor{#76727E}{\textsf{the}}$
-$\small\textcolor{#B5ADBC}{\textsf{rentry}}$
+$\small\textcolor{#5E6273{\textsf{dniuf,}}$
+$\small\textcolor{#76727E}{\textsf{check}}$
+$\small\textcolor{#B5ADBC}{\textsf{the}}$
+$\small\textcolor{#C0C0D4}{\textsf{rentry}}$
 $\small\textcolor{C0C6D8}{\textsf{before}}$
-$\small\textcolor{#C0C0D4}{\textsf{interacting.}}$
+$\small\textcolor{#E4E9EC}{\textsf{interacting.}}$
    
   </p>         
    <p align="center">
