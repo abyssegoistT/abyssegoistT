@@ -15,8 +15,8 @@ $\small\textcolor{#5E6273}{\textsf{dniuf,}}$
 $\small\textcolor{#76727E}{\textsf{check}}$
 $\small\textcolor{#B5ADBC}{\textsf{the}}$
 $\small\textcolor{#C0C0D4}{\textsf{rentry}}$
-$\small\textcolor{#F7AFB0}{\textsf{before}}$
-$\small\textcolor{#ffcf91}{\textsf{interacting.}}$
+$\small\textcolor{#DFD7E5}{\textsf{before}}$
+$\small\textcolor{#F9EFE3}{\textsf{interacting.}}$
    
   </p>         
    <p align="center">
