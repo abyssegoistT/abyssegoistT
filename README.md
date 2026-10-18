@@ -32,20 +32,8 @@ $\small\textcolor{#F9EFE3}{\textsf{interacting.}}$
 $\small\textcolor{#5E6273}{\textsf{c+h freely all the time, i really}}$
 $\small\textcolor{#444E5C}{\textsf{don't mind being featured on Pinterest}}$
 
-
-<img src="https://files.catbox.moe/pbc0qn.png">
-<a 
-
-<details closed>
-
-
-   <div align="center">
- <br>
-   <details>
-<summary> $\small\textcolor{#B5ADBC}{\textsf{♡}}$ </summary>
-
- <p align="center">  
-    
+<div align="center">
+   
 https://github.com/user-attachments/assets/a7ce1595-4902-41a9-a7e7-e944f1982c35
 
 
