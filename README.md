@@ -20,7 +20,7 @@ $\small\textcolor{#553F55}{\textsf{interacting.}}$
    
   </p>         
    <p align="center">
-   <a href="https://rentry.co/Thelastcard"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=5E6273&center=true&vCenter=true&width=200&height=30&lines=rentry.co" alt="Typing SVG" /></a>
+   <a href="https://rentry.co/Thelastcard"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=D18371&center=true&vCenter=true&width=200&height=30&lines=rentry.co" alt="Typing SVG" /></a>
 
    <div align="center">
  <br>
