@@ -1,7 +1,7 @@
 <!--Oh god oh god i'm so gay about pv and Mordecai Heller and hero x~ ... hehe .-->
 <p align="center">
 <a href="https://hits.sh/github.com/FoolsUmbra/hits/"><img alt="Éxitos" src="https://hits.sh/github.com/FoolsUmbra/hits.svg?label=Cute%20%E2%99%A1&extraCount=6565&color=4C2B35&labelColor=C94D5F"/></a>
-<img src="https://files.catbox.moe/xvkigf.webp">
+<img src="https://files.catbox.moe/wd849r.webp">
 <a href="https://hits.sh/github.com/FoolsUmbra/hits/"><img alt="Éxitos" src="https://hits.sh/github.com/FoolsUmbra/hits.svg?label=love%20%E2%99%A1&extraCount=828&color=4C2B35&labelColor=C94D5F"/></a> 
 <img src="https://files.catbox.moe/w7gsm8.png">
 <a 
