@@ -3,7 +3,7 @@
 <a href="https://hits.sh/github.com/FoolsUmbra/hits/"><img alt="Éxitos" src="https://hits.sh/github.com/FoolsUmbra/hits.svg?label=Cute%20%E2%99%A1&extraCount=6565&color=F9EFE3&labelColor=E4E3EC"/></a>
 <img src="https://files.catbox.moe/xvkigf.webp">
 <a href="https://hits.sh/github.com/FoolsUmbra/hits/"><img alt="Éxitos" src="https://hits.sh/github.com/FoolsUmbra/hits.svg?label=love%20%E2%99%A1&extraCount=828&color=F9EFE3&labelColor=E4E3EC"/></a> 
-<img src="https://files.catbox.moe/t28wur.png">
+<img src="https://files.catbox.moe/w7gsm8.png">
 <a 
    <p align="center">
 <a 
