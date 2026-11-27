@@ -25,10 +25,10 @@ $\small\textcolor{#553F55}{\textsf{interacting.}}$
    <div align="center">
  <br>
    <details>
-<summary> $\small\textcolor{#B5ADBC}{\textsf{♡}}$ </summary>
+<summary> $\small\textcolor{#512E43}{\textsf{♡}}$ </summary>
 
-$\small\textcolor{#5E6273}{\textsf{c+h freely all the time, i really}}$
-$\small\textcolor{#444E5C}{\textsf{don't mind being featured on Pinterest}}$
+$\small\textcolor{#512E43}{\textsf{c+h freely all the time, i really}}$
+$\small\textcolor{#47242D}{\textsf{don't mind being featured on Pinterest}}$
 
 <div align="center">
    
